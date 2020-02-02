@@ -1,1 +1,1 @@
-Ovo ce biti repozitoriju za projekat za master rad
+A ovo je prvi branch
