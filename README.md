@@ -1,0 +1,1 @@
+Ovo ce biti repozitoriju za projekat za master rad
